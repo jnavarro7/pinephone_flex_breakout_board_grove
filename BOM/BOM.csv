@@ -1,0 +1,5 @@
+"#";"Name";"Manufacturer";"Quantity";"RefDes";"Value"
+"1";"SMD-4P-2.0mm-90D grove_4pin_I2C";"Seeed Studio";"1";"J1";""
+"2";"RES_0805";"";"1";"R1";"0"
+"3";"TESTPOINT";"";"4";"TP1, TP2, TP3, TP4";""
+"4";"6pin_hdr";"";"1";"U1";""
