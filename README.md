@@ -44,6 +44,10 @@ The design was created using <a href="https://diptrace.com" title="DipTrace">Dip
 
 Remember to order it as a Flex Board!. 
 
+## Order from OSHPark
+
+<a href="https://oshpark.com/shared_projects/7gIMIkNa"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+
 ## License
 
 Released under the Creative Commons Attribution 3.0 License
